@@ -11,7 +11,7 @@ I am a versatile DBA. I am a database consultant with good knowledge:
 - Databases: SQL Server, Oracle, MongoDB.
 - ETL tools: Integration Services.
 - Programmer: Python, JS, C#.
-- Self Service BI: Power BI, Analysis Service.
+- Self Service BI: Power BI.
 
 I love spending time researching new things. I also like to work in a team, you will learn faster and much more.
 
