@@ -6,7 +6,7 @@ I am Daniel Willians and I work as ** Data Administration ** based in São Paulo
   
 I am a versatile DBA. I am a database consultant with good knowledge:
  
-- Cloud: Azure, AWS, GCP.
+- Cloud: Azure, AWS.
 - Big Data: Databricks, Spark, Hadoop.
 - Databases: SQL Server, Oracle, MongoDB.
 - ETL tools: Integration Services.
