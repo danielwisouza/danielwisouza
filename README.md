@@ -4,7 +4,7 @@
   
 I am Daniel Willians and I work as **Data Administration** based in São Paulo, Brazil. I am passionate about making data accessible to everyone and I am also an advocate for building open source projects.
   
-I am a versatile DBA. I am a database consultant with good knowledge:
+I am DBA. I am a database consultant with good knowledge:
  
 - Cloud: Azure, AWS.
 - Big Data: Databricks, Spark, Hadoop. (Studying)
