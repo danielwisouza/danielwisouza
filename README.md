@@ -2,7 +2,7 @@
   
   [![Visits Badge](https://badges.pufler.dev/visits/danielwisouza/danielwisouza)](https://badges.pufler.dev/visits/danielwisouza/danielwisouza)
   
-I am Daniel Willians and I work as **Data Administration** in São Paulo, Brazil. I am passionate about making data accessible to everyone and I am also an advocate for building open source projects.
+I am Daniel Williams and I work as Data Administration in São Paulo, Brazil. I am passionate about making data accessible to everyone.
   
 I am DBA. I am a database consultant with good knowledge:
  
