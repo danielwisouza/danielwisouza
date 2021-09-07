@@ -2,16 +2,18 @@
   
   [![Visits Badge](https://badges.pufler.dev/visits/danielwisouza/danielwisouza)](https://badges.pufler.dev/visits/danielwisouza/danielwisouza)
   
-I am Daniel Willians and I work as Data Administration in São Paulo, Brazil. I am passionate about making data accessible to everyone.
-  
-I am DBA. I am a database consultant with good knowledge:
- 
-- Cloud: Azure, AWS.
-- Big Data: Databricks, Spark, Hadoop. (Studying)
-- Databases: SQL Server, Oracle, MongoDB.
-- ETL tools: Integration Services.
-- Programmer: Python, JS, C#.
-- Self Service BI: Power BI.
+Sou Daniel Willians, trabalho como Administração de Dados em São Paulo, Brasil. Sou apaixonado por tornar os dados acessíveis a todos.
+
+Sou consultor de banco de dados com bons conhecimentos:
+
+- Nuvem: Azure, AWS.
+- Big Data: Databricks, Spark, Hadoop. (Estudando)
+- Bancos de dados: SQL Server, Oracle, MongoDB.
+- Ferramentas ETL: Serviços de integração.
+- Programador: Python, JS, C #.
+- BI de autoatendimento: Power BI.
+
+Adoro passar o tempo pesquisando coisas novas. Também gosto de trabalhar em equipe, você aprenderá mais rápido e muito mais.
 
 I love spending time researching new things. I also like to work in a team, you will learn faster and much more.
 
