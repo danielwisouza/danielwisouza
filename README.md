@@ -1,7 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou Daniel</h1>
 <h3 align="center">Apaixonado por tecnologia e me aventurando na área de dados</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielwisouza&label=Profile%20views&color=0e75b6&style=flat" alt="danielwisouza" /> </p>
+[![Visits Badge](https://badges.pufler.dev/visits/danielwisouza/danielwisouza)](https://badges.pufler.dev/visits/danielwisouza/danielwisouza)
+
 
 - 🔭 Atualmente estou trabalhando como **Administrador de Dados**
 - 👯 Eu procuro coladorar em **projetos de ciência e engenharia de dados**
@@ -41,4 +42,3 @@ I love spending time researching new things. I also like to work in a team, you 
   </p>
 
 
-  [![Visits Badge](https://badges.pufler.dev/visits/danielwisouza/danielwisouza)](https://badges.pufler.dev/visits/danielwisouza/danielwisouza)
