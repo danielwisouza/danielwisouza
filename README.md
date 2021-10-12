@@ -7,7 +7,6 @@
 - 👯 Eu procuro coladorar em **projetos de ciência e engenharia de dados**
 - 📝 Eu recularmente escrevo em [https://medium.com/](https://medium.com/)
 - 💬 Me pergunte sobre **tecnologia, ciência de dados, carreira; ficarei feliz em ajudar.**
-- 📫 Fale comigo em **daniel.wis@outlook.com**
 
 Adoro passar o tempo pesquisando coisas novas. Também gosto de trabalhar em equipe.
 
