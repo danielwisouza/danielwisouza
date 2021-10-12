@@ -10,12 +10,6 @@
 
 Adoro passar o tempo pesquisando coisas novas. Também gosto de trabalhar em equipe.
 
-<h3 align="left">Me contacte em:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/danielwisouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielwisouza" height="30" width="40" /></a>
-<a href="https://instagram.com/danielwisouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielwisouza" height="30" width="40" /></a>
-</p>
-
 <details>
   <summary><b>🛠️ Algumas ferramentas e linguagens que uso:</b></summary>
  <br/>
@@ -27,5 +21,11 @@ Adoro passar o tempo pesquisando coisas novas. Também gosto de trabalhar em equ
   <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=danielwisouza&show_icons=true&theme=buefy" alt="my github stats" width="420"/>
   </p>
+  
+  <h3 align="left">Me contacte em:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/danielwisouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielwisouza" height="30" width="40" /></a>
+<a href="https://instagram.com/danielwisouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielwisouza" height="30" width="40" /></a>
+</p>
 
 
