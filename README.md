@@ -4,12 +4,11 @@
 
 👋 Entusiasta da tecnologia e dos dados, buscando explorar novas oportunidades na área de engenharia de dados, com foco em soluções na nuvem Azure.
 
-🔭 No momento, atuo como Consultor de Banco de Dados, onde minha função principal é otimizar o desempenho do SQL Server. Além disso, sou responsável por realizar manutenção em processos Integration (SSIS), Report (SSRS) e Analysis service (SSAS), e também por modelar e validar processos para governança de dados.
+🔭 No momento, atuo como Consultor de Banco de Dados.
 
 💬 Fique à vontade para me perguntar sobre tecnologia, engenharia de dados, SQL Server e carreira; estou aqui para ajudar!
 
 🌱 Ccom mais de 5 anos de experiência em tecnologia e dados. Minhas habilidades incluem:
-
 
 Administração de Bancos de Dados: 
 Experiência em gestão, suporte e manutenção de ambientes HADR.
