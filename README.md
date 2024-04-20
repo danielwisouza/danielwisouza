@@ -2,25 +2,29 @@
 
 <h2 align="center">Olá 👋, Eu sou Daniel Willians de Souza</h2>
 
-<h3 align="center">Apaixonado por tecnologia e me aventurando na área de dados</h3>
+👋 Entusiasta da tecnologia e dos dados, buscando explorar novas oportunidades na área de engenharia de dados, com foco em soluções na nuvem Azure.
 
-- 🔭 Atualmente estou trabalhando como **Consultor de Banco de Dados**
-- 👯 Procuro coladorar em **projetos de ciência e engenharia de dados**
-- 💬 Me pergunte sobre **tecnologia, engenharia de dados, SQL Server, carreira; ficarei feliz em ajudar.**
+🔭 No momento, atuo como Consultor de Banco de Dados, onde minha função principal é otimizar o desempenho do SQL Server. Além disso, sou responsável por realizar manutenção em processos Integration (SSIS), Report (SSRS) e Analysis service (SSAS), e também por modelar e validar processos para governança de dados.
 
--  📚 Veja meu portfólio: [Abrir Portfólio](https://danielwisouza.github.io/danielwisouza/)
+💬 Fique à vontade para me perguntar sobre tecnologia, engenharia de dados, SQL Server e carreira; estou aqui para ajudar!
+
+🌱 Ccom mais de 5 anos de experiência em tecnologia e dados. Minhas habilidades incluem:
 
 
-**danielwisouza/danielwisouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Administração de Bancos de Dados: 
+Experiência em gestão, suporte e manutenção de ambientes HADR.
+Foco em SQL Server Performance Tuning.
+Implementação de medidas de segurança abrangentes.
 
-Here are some ideas to get you started:
+Governança de Dados: 
+Implementação de políticas eficientes de gestão de metadados.
+Desenvolvimento de processos ETL para extração de dados do Hadoop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+Consultoria Estratégica:
+Colaboração com equipes de projetos.
+Manutenção de pipeline de dados.
+Desenvolvimento de processos ETL para manipulação eficiente de grandes volumes de dados.
+
+Conhecimentos em: SQL Server, Azure, Oracle, Power BI, Scala, Spark, Ecossistema Hadoop, NoSQL, Azure Data Factory, Azure Synapse, Docker, Python, PySpark.
+
+📚 Confira meu portfólio aqui: [Abrir Portfólio]([link para o portfólio](https://danielwisouza.github.io/))
