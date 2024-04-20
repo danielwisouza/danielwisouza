@@ -8,5 +8,5 @@
 
 💬 Fique à vontade para me perguntar sobre tecnologia, engenharia de dados, SQL Server e carreira; estou aqui para ajudar!
 
-📚 Veja meu portfólio: [Abrir Portfólio]([https://danielwisouza.github.io/](https://danielwisouza.github.io/#projects))
+📚 Veja meu portfólio: [Abrir Portfólio](https://danielwisouza.github.io/](https://danielwisouza.github.io/#projects)
 
