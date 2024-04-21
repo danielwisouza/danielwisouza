@@ -10,4 +10,5 @@
 
 📚 Veja meu portfólio: [Abrir Portfólio](https://danielwisouza.github.io/)
 
+📚 Geralmente, escrevo em: [Medium](https://medium.com/@danielwisouza/)  
 
