@@ -2,6 +2,8 @@
 
 <h2 align="center">Olá 👋, Eu sou Daniel Willians de Souza</h2>
 
+![](https://komarev.com/ghpvc/?username=danielwisouza)
+
 👋 Entusiasta da tecnologia e dos dados, buscando explorar novas oportunidades na área de engenharia de dados, com foco em soluções na nuvem Azure.
 
 🔭 No momento, atuo como Consultor de Banco de Dados.
