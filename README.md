@@ -1,5 +1,5 @@
 Hi there 👋, I'm Daniel Willians
-🔹 Data Engineer | Azure Specialist | Big Data Enthusiast
+🔹 Data Engineer | Azure Data Engineer | Big Data Enthusiast | Databricks and Microsoft Certified
 
 I’m a Data Engineer with 6 years of experience working with cutting-edge cloud technologies, particularly in the Azure ecosystem, Databricks, Big Data solutions, and data governance. My passion lies in transforming data into actionable insights and delivering scalable data pipelines that improve business operations and decision-making.
 
