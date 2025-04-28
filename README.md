@@ -16,16 +16,10 @@ I design and optimize ETL/ELT pipelines, cloud architectures, and data solutions
 Focused on continuous growth in cloud solutions, Databricks, AI, Gen AI, and productivity.
 
 ## 📚 Explore my portfolio: 
-[danielwisouza.github.io](https://danielwisouza.github.io)
+[Visit my website](https://danielwisouza.github.io)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielwisouza)](https://github.com/danielwisouza)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielwisouza/)](https://www.linkedin.com/in/danielwisouza/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522997285662&text=Hello!)](https://api.whatsapp.com/send?phone=5512997168498&text=Hello!)
 [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=Microsoft%20Outlook&logoColor=white&link=mailto:daniel.wis@outlook.com)](mailto:daniel.wis@outlook.com)
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielwisouza)](https://github.com/danielwisouza)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielwisouza/)](https://www.linkedin.com/in/danielwisouza/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522997285662&text=Hello!)](https://api.whatsapp.com/send?phone=5522997285662&text=Hello!)
-[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=Microsoft%20Outlook&logoColor=white&link=mailto:daniel.wis@outlook.com)](mailto:daniel.wis@outlook.com)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=About.me&logoColor=white&link=https://danielwisouza.github.io)](https://danielwisouza.github.io)
 
