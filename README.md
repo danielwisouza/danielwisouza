@@ -16,7 +16,7 @@ I design and optimize ETL/ELT pipelines, cloud architectures, and data solutions
 Focused on continuous growth in cloud solutions, Databricks, AI, Gen AI, and productivity.
 
 ## 📚 Explore my portfolio:
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=About.me&logoColor=white&link=https://danielwisouza.github.io)](https://danielwisouza.github.io)
+[Visit my website](https://danielwisouza.github.io)
 
 ## 📬 Contact:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielwisouza)](https://github.com/danielwisouza)
