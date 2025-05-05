@@ -24,4 +24,9 @@ Focused on continuous growth in cloud solutions, Databricks, AI, Gen AI, and pro
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512997168498&text=Hello!)](https://api.whatsapp.com/send?phone=5512997168498&text=Hello!)
 [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=Microsoft%20Outlook&logoColor=white&link=mailto:daniel.wis@outlook.com)](mailto:daniel.wis@outlook.com)
 
+<div>
+  <a href="https://github.com/danielwisouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielwisouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </div>
+
 
